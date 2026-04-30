@@ -1,2 +1,9 @@
-# Leetcode-solutions-java
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
+# LeetCode Solutions (Java)
+
+This repository contains my daily LeetCode problem solutions.
+
+## Topics Covered:
+- Linked List
+
+## Progress:
+- Total Problems Solved: 1
