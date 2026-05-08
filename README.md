@@ -3,7 +3,7 @@
 This repository contains my daily LeetCode problem solutions.
 
 ## Topics Covered:
-- Linked List
+- Linked List (Doubly LinkedList) (Depth First Search)
 
 ## Progress:
-- Total Problems Solved: 1
+- Total Problems Solved: 2
