@@ -1,0 +1,12 @@
+# IDE specific files (IntelliJ IDEA)
+.idea/
+*.iml
+out/
+gen/
+
+# Compiled Java class files
+*.class
+
+# OS generated files
+Thumbs.db
+.DS_Store
