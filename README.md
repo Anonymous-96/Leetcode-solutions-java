@@ -7,4 +7,4 @@ This repository contains my daily LeetCode problem solutions.
 - Arrays 
 
 ## Progress:
-- Total Problems Solved: 3
+- Total Problems Solved: 5
