@@ -7,4 +7,4 @@ This repository contains my daily LeetCode problem solutions.
 - Arrays (Kadane's Algo, Dutch Flag Algo)
 
 ## Progress:
-- Total Problems Solved: 7
+- Total Problems Solved: 11 
